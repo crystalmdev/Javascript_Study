@@ -1,1 +1,1 @@
-# JAVASCRIPT 스터디
+## JAVASCRIPT 스터디
